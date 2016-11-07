@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "dependencies": {
     "debug": "^2.2.0",
-    "glob": "^5.0.15",
+    "glob": "^7.1.1",
     "npm": "^3.3.10",
     "perfjankie": "^2.1.0",
     "q": "^1.4.1",
